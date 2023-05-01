@@ -4,7 +4,7 @@ A collection of nonsense made by EH for AP research
 # Set up instructions
 Follow the steps below to set up the env you'll be working on
 
-Select "make new codespace from master" from the dropdown menu under "Code<>". Wait for the new Codespace to load then enter the following command into the terminal:
+Select "make new codespace from master" from the dropdown menu under "<>Code". Wait for the new Codespace to load then enter the following command into the terminal:
 ```
 docker pull rocker/rstudio
 ```
@@ -31,10 +31,10 @@ Then click the gear icon in the bottom left window and select "Set as working di
 
 # Actual content we'll be covering
 
-We'll first mess with "covidfun.R". The documentation can be found here: 
+First, we'll first mess with "covidfun.R". The documentation can be found here: 
 https://github.com/hilletc7/low-budget-covid19-tracker
 
-Next we'll mess with "plotting_stub.R" The documentation for this one is built into the script
+Next, we'll mess with "plotting_stub.R" The documentation for this one is built into the script (ThE cOdE iS tHe DoCuMeNtAtIoN!1!!!!1)
 
 Finally, we'll mess with "sassysqrt.R". The documentation can be found here: 
 https://github.com/hilletc7/sassy-square-root-function

@@ -18,9 +18,9 @@ Wait for the virtual machine to spin up then follow the link under the "ports" s
 
 Follow the ports link then enter the username and password:
 
-username: rstudio
+**username: rstudio**
 
-password: it's randomly generated; look at the terminal for your password. It will be highlighed in green
+**password: it's randomly generated; look at the terminal for your password. It will be highlighed in green**
 
 Once you have logged in, click the three dots by the file path menu in the bottom left window and enter:
 ```

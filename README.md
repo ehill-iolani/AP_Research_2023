@@ -36,5 +36,5 @@ https://github.com/hilletc7/low-budget-covid19-tracker
 
 Next, we'll mess with "plotting_stub.R" The documentation for this one is built into the script (ThE cOdE iS tHe DoCuMeNtAtIoN!1!!!!1)
 
-Finally, we'll mess with "sassysqrt.R". The documentation can be found here: 
+Finally, we'll mess with "sassy_sqrtfunc.R". The documentation can be found here: 
 https://github.com/hilletc7/sassy-square-root-function

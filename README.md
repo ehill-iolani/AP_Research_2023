@@ -4,7 +4,7 @@ A collection of nonsense made by EH for AP research
 # Set up instructions
 Follow the steps below to set up the env you'll be working on
 
-Select "make new codespace from master" then enter the following command into the terminal:
+Select "make new codespace from master" from the dropdown menu under "Code<>". Wait for the new Codespace to load then enter the following command into the terminal:
 ```
 docker pull rocker/rstudio
 ```
@@ -22,12 +22,12 @@ username: rstudio
 
 password: randomly generated, look at the terminal
 
-Once you have logged in, click the three dots by the file path menu and enter:
+Once you have logged in, click the three dots by the file path menu in the bottom left window and enter:
 ```
 /home/Documents
 ```
 
-Then click the gear icon and select "Set as working directory"
+Then click the gear icon in the bottom left window and select "Set as working directory"
 
 # Actual content we'll be covering
 

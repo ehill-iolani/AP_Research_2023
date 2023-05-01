@@ -20,7 +20,7 @@ Follow the ports link then enter the username and password:
 
 username: rstudio
 
-password: randomly generate, look at the terminal
+password: randomly generated, look at the terminal
 
 Once you have logged in, click the three dots by the file path menu and enter:
 ```

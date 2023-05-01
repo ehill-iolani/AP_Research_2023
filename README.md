@@ -1,8 +1,8 @@
 # AP_Research_2023
-A collection of nonsense made by EH for AP research
+A collection of nonsense made by EH for AP Research 2023.
 
 # Set up instructions
-Follow the steps below to set up the env you'll be working on
+Follow the steps below to set up the env you'll be working with.
 
 Select "make new codespace from master" from the dropdown menu under "<>Code". Wait for the new Codespace to load then enter the following command into the terminal:
 ```
@@ -20,7 +20,7 @@ Follow the ports link then enter the username and password:
 
 username: rstudio
 
-password: randomly generated, look at the terminal
+password: it's randomly generated; look at the terminal for your password. It will be highlighed in green
 
 Once you have logged in, click the three dots by the file path menu in the bottom left window and enter:
 ```
